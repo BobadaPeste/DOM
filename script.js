@@ -1,10 +1,4 @@
-/// Importando imagens ///
-const listaImgs = ["./imgs/interrogacao.png",
-  "./imgs/interrogacao.png",
-  "./imgs/interrogacao.png",
-  "./imgs/interrogacao.png"];
 
-/// Criar Blocos ///
 function criarBlocos() {
   const jogo = document.querySelector("#jogo");
   jogo.innerHTML = "";
